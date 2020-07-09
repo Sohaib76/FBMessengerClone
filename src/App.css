@@ -30,3 +30,10 @@
   /* margin-right: 50px !important; */
 } 
 
+.message__typo{
+  color: #e9e9eb !important; 
+}
+
+.message__typeGuest{
+  color: black;
+}
